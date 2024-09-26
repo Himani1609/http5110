@@ -1,7 +1,7 @@
 # Intro-to-Web-Development
 ## HTTP-5110
 
-<img src=./webdev.png alt="" width="200" height="150"> 
+<img src=./webdev.png alt="Web Development" width="200" height="150"> 
 
 This is repo of course HTTP-5110 Intro to Web Development. 
 This will include all the assignments, labs and any practice files related to this course.
